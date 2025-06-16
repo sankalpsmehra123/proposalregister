@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Mac Desktop Services Store ###
+.DS_Store
